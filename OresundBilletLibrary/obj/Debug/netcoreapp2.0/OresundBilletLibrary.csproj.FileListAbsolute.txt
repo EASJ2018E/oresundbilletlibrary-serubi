@@ -1,0 +1,12 @@
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\bin\Debug\netcoreapp2.0\OresundBilletLibrary.deps.json
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\bin\Debug\netcoreapp2.0\OresundBilletLibrary.dll
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\bin\Debug\netcoreapp2.0\OresundBilletLibrary.pdb
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.xml
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\obj\Debug\netcoreapp2.0\OresundBilletLibrary.csprojResolveAssemblyReference.cache
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\obj\Debug\netcoreapp2.0\OresundBilletLibrary.csproj.CoreCompileInputs.cache
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\obj\Debug\netcoreapp2.0\OresundBilletLibrary.AssemblyInfoInputs.cache
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\obj\Debug\netcoreapp2.0\OresundBilletLibrary.AssemblyInfo.cs
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\obj\Debug\netcoreapp2.0\OresundBilletLibrary.csproj.CopyComplete
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\obj\Debug\netcoreapp2.0\OresundBilletLibrary.dll
+C:\source\BilletLibrary\oresundbilletlibrary-serubi\OresundBilletLibrary\obj\Debug\netcoreapp2.0\OresundBilletLibrary.pdb

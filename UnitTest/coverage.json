@@ -1,0 +1,120 @@
+{
+  "C:\\source\\BilletLibrary\\oresundbilletlibrary-serubi\\UnitTest\\bin\\Debug\\netcoreapp2.0\\OresundBilletLibrary.dll": {
+    "C:\\source\\BilletLibrary\\oresundbilletlibrary-serubi\\OresundBilletLibrary\\OresundBil.cs": {
+      "OresundBilletLibrary.OresundBil": {
+        "System.Decimal OresundBilletLibrary.OresundBil::Pris()": {
+          "Lines": {
+            "23": 2,
+            "24": 2,
+            "25": 2
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 24,
+              "Offset": 7,
+              "EndOffset": 16,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.String OresundBilletLibrary.OresundBil::Køretøj()": {
+          "Lines": {
+            "28": 1,
+            "29": 1,
+            "30": 1
+          },
+          "Branches": []
+        },
+        "System.Void OresundBilletLibrary.OresundBil::.ctor(System.String,System.DateTime)": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1
+          },
+          "Branches": []
+        },
+        "System.Void OresundBilletLibrary.OresundBil::.ctor(System.String,System.DateTime,System.Boolean)": {
+          "Lines": {
+            "15": 2,
+            "16": 2,
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\source\\BilletLibrary\\oresundbilletlibrary-serubi\\OresundBilletLibrary\\OresundMotorcykel.cs": {
+      "OresundBilletLibrary.OresundMotorcykel": {
+        "System.Decimal OresundBilletLibrary.OresundMotorcykel::Pris()": {
+          "Lines": {
+            "23": 2,
+            "24": 2,
+            "25": 2
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 24,
+              "Offset": 7,
+              "EndOffset": 16,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.String OresundBilletLibrary.OresundMotorcykel::Køretøj()": {
+          "Lines": {
+            "28": 1,
+            "29": 1,
+            "30": 1
+          },
+          "Branches": []
+        },
+        "System.Void OresundBilletLibrary.OresundMotorcykel::.ctor(System.String,System.DateTime)": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1
+          },
+          "Branches": []
+        },
+        "System.Void OresundBilletLibrary.OresundMotorcykel::.ctor(System.String,System.DateTime,System.Boolean)": {
+          "Lines": {
+            "15": 2,
+            "16": 2,
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
